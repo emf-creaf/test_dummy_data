@@ -4,24 +4,22 @@ emf_public: true
 emf_automatized: true
 emf_reproducible: false
 emf_draft: false
+emf_data_type: emf_source_data
+model_repository: ''
 nodes: ''
 authors:
 - vgranda
 - emf
-authors_aff:
-- CREAF
-- CREAF
-resource_link: data/test_dummy_data
-thematic: dummy
 tags:
 - data_topic
 - dummy
 - dummydummy
+links:
+  url_doi: example.com
 requirements: ''
 description: This is a dummy data metadata to test the automatized page web building
 title: Test dummy data
 date: '2021-09-14'
-date_lastmod: '2021-09-14'
-categories: data
-external_link: https://laboratoriforestal.creaf.uab.cat/
+date_lastmod: '2022-02-01'
+data_repository: 'creaf.cat'
 
